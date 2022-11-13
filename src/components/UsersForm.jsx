@@ -107,5 +107,3 @@ const UsersForm = ({ getUsers, select, desSelectUser, setPressed }) => {
 }
 
 export default UsersForm
-
-// className='absolute rounded-xl p-[18px] text-[17px]  md:w-1/3 md:h-1/8 hover:bg-cyan-800 right-0 -translate-x-1/2 translate-y-1/2 top-1/2 left-1/2 w-[80%] wx-auto md:right-0 md:translate-x-1/2 md:top-1/2 md:pr-10'

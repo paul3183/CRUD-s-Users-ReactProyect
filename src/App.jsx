@@ -60,6 +60,14 @@ function App() {
         setPressed={setPressed}
       />
       <ButtonAdd setPressed={setPressed} />
+      <footer>
+        <h2>Developers</h2>
+        <ul>
+          <li>Paul Martin Ruiz Guardia</li>
+          <li>Roberto Luciano Centeno Avendaño</li>
+          <li>Miguel Antonio Martinez</li>
+        </ul>
+      </footer>
     </div>
   )
 }
